@@ -1,4 +1,3 @@
-
 window.onload(){
 
 ///Classroom Codes
@@ -20,5 +19,5 @@ window.onload(){
 	let ActLink = "";
 	let EsLink = "";
 
-document.getElementById('').innerHTML = ""
+
 }

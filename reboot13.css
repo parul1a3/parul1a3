@@ -68,7 +68,7 @@ iframe{
   color: #999;
   text-align: center;
   background-color: #f9f9f9;
-  border-top: .05rem solid #e5e5e5;
+  
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
@@ -120,4 +120,10 @@ iframe{
 .darkmode {
 	border:none;
 	background-color: #ffffff0;
+}
+.dark-blog-footer {
+    padding: 2.5rem 0;
+    color: #fff;
+    text-align: center;
+    background-color: #292929;
 }
