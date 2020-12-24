@@ -22,4 +22,8 @@ html {
     height: 1300px;
     width: 100%;
 }
+.TimeTable {
+	padding: 10px;
+	margin: 5px;
+}
       }

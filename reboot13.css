@@ -15,7 +15,10 @@ iframe{
     overflow:hidden;
     scroll-behavior: smooth;
 }
-
+td {
+	font-size: 14px;
+	font-weight: 500;
+}
 .navbar_fixed{
     position: fixed;
     width: 100%;
@@ -101,6 +104,10 @@ iframe{
 	align-content: center;
 	text-align: center;
 }
+.TimeTable {
+	padding: 50px;
+	margin: 5px;
+}
 .dark-card-body {
     flex: 1 1 auto;
     background-color: #000;
@@ -126,4 +133,22 @@ iframe{
     color: #fff;
     text-align: center;
     background-color: #292929;
+}
+.dark-table {
+    --bs-table-bg: transparent;
+    --bs-table-striped-color: #212529;
+    --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+    --bs-table-active-color: #212529;
+    --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+    --bs-table-hover-color: #212529;
+    --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #ffffff;
+    vertical-align: top;
+    border-color: #dee2e6;
+}
+
+#day {
+	font-size: 40px;
 }
