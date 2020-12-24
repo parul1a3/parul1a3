@@ -15,6 +15,7 @@ iframe{
     overflow:hidden;
     scroll-behavior: smooth;
 }
+
 .navbar_fixed{
     position: fixed;
     width: 100%;
@@ -59,6 +60,7 @@ iframe{
 .card-body {
     flex: 1 1 auto;
     background-color: #cee9ff;
+    color: black;
     padding: 1rem 1rem;
 }
 .blog-footer {
@@ -98,4 +100,24 @@ iframe{
 	padding: 5px;
 	align-content: center;
 	text-align: center;
+}
+.dark-card-body {
+    flex: 1 1 auto;
+    background-color: #000;
+    color: #ffffff;
+    padding: 1rem 1rem;
+    border:none;
+}
+.bg-dark-ablum{
+	padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+    background-color: #292929!important;
+}
+.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+.darkmode {
+	border:none;
+	background-color: #ffffff0;
 }
