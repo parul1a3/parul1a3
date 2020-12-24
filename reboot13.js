@@ -1,14 +1,4 @@
 window.onload(){
-
-///Classroom Codes
-	let EmeCode = "";
-	let BeeCode = "";
-	let CsCode = "";
-	let WsCode = "";
-	let IctCode = "";
-	let MathCode= "";
-	let ActCode = "";
-	let EsCode = "";
  ///Lecture Links
     let EmeLink = "https://meet.google.com/lookup/dhngb2hxlr";
 	let BeeLink = "";
