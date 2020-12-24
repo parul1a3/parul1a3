@@ -19,6 +19,14 @@ td {
 	font-size: 12px;
 	font-weight: 500;
 }
+tr {
+	font-size: 12px;
+	font-weight: 500;
+}
+table {
+font-size: 12px;
+	font-weight: 500;
+}
 .navbar_fixed{
     position: fixed;
     width: 100%;
