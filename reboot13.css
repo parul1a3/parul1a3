@@ -16,16 +16,23 @@ iframe{
     scroll-behavior: smooth;
 }
 td {
-	font-size: 12px;
-	font-weight: 500;
-}
-tr {
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: 500;
 }
 span {
-font-size: 12px;
+	font-size:14px;
 	font-weight: 500;
+}
+#day {
+    font-size: 30px;
+}
+#PublicHoliday {
+    font-size:25px;
+}
+#circle1 {
+    border-radius: 50%;
+    height: 100px;
+    width: 50px;
 }
 .navbar_fixed{
     position: fixed;
@@ -156,10 +163,15 @@ font-size: 12px;
     vertical-align: top;
     border-color: #dee2e6;
 }
-
-#day {
-	font-size: 30px;
 }
-.btn-primary {
-margin:10px;
+.info-btns{
+	padding: 10px;
+	margin: 10px;
+}
+.btn-primary{
+	margin: 10px;
+}
+.info {
+    padding: 50px;
+    margin: 5px;
 }
