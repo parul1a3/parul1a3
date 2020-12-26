@@ -175,3 +175,15 @@ span {
     padding: 50px;
     margin: 5px;
 }
+.container {
+    align-self: center;
+    align-content: center;
+}
+.about {
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+
+}
