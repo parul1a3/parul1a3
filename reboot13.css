@@ -23,6 +23,9 @@ span {
 	font-size:14px;
 	font-weight: 500;
 }
+table {
+    table-layout:all;
+}
 #day {
     font-size: 30px;
 }
