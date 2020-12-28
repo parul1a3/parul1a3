@@ -1,5 +1,5 @@
 window.onload=function(){
-	 ///Lecture Links
+///Lecture Links
 	let EmeLink = "<a href='https://meet.google.com/lookup/dhngb2hxlr'>Link</a>";
 	let BeeLink = "<a href='https://meet.google.com/lookup/fplxqs3u5q'>Link</a>";
 	let CsLink = "<a href='https://meet.google.com/lookup/fxszdmcw3y'>Link</a>";
@@ -47,7 +47,7 @@ document.getElementById("Subject1").innerHTML = "Maths";
 
 
 else if( day == "Wednesday"){
-document.getElementById("Subject1").innerHTML = "ES";
+    document.getElementById("Subject1").innerHTML = "ES";
 	document.getElementById("Link1").innerHTML = EsLink;
 
 	document.getElementById("Subject2").innerHTML = "Maths";
@@ -123,6 +123,11 @@ else if( day == "Sunday"){
 
 }
 
+///Extra Lecture
+var extralec = "xxxx";
+var extralectime = "xxxx";
+var extraleclink = "<a href='#'></a>";
 
+document.getElementById("extralec").innerHTML = extralectime + extralec + extraleclink;
 
 }
