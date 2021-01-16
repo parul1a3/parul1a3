@@ -20,9 +20,26 @@ weekday[6] = "Saturday";
 var day = weekday[d.getDay()];
 document.getElementById("day").innerHTML = day +"😇";;
 document.getElementById("Date").innerHTML = d;
+        document.getElementById("Subject1").innerHTML = "Hoilday 😛";
+	document.getElementById("Link1").innerHTML = "Hoilday 😛";
+
+	document.getElementById("Subject2").innerHTML = "Hoilday 😛";
+	document.getElementById("Link2").innerHTML = "Hoilday 😛";
+
+	document.getElementById("Subject3").innerHTML = "Hoilday 😛";
+	document.getElementById("Link3").innerHTML = "Hoilday 😛";
+
+        document.getElementById("Subject4").innerHTML = "Hoilday 😛";
+	document.getElementById("Link4").innerHTML = "Hoilday 😛";
+
+	document.getElementById("Subject5").innerHTML = "Hoilday 😛";
+	document.getElementById("Link5").innerHTML = "Hoilday 😛";
+
+	document.getElementById("Subject6").innerHTML = "Hoilday 😛";
+	document.getElementById("Link6").innerHTML = "Hoilday 😛";
 
 
-if( day == "Monday"){
+/*if( day == "Monday"){
 	document.getElementById("Subject1").innerHTML = "BEE";
 	document.getElementById("Link1").innerHTML = BeeLink;
 
@@ -112,7 +129,7 @@ else if( day == "Sunday"){
 	document.getElementById("Subject3").innerHTML = "Hoilday 😛";
 	document.getElementById("Link3").innerHTML = "Hoilday 😛";
 
-    document.getElementById("Subject4").innerHTML = "Hoilday 😛";
+        document.getElementById("Subject4").innerHTML = "Hoilday 😛";
 	document.getElementById("Link4").innerHTML = "Hoilday 😛";
 
 	document.getElementById("Subject5").innerHTML = "Hoilday 😛";
@@ -121,7 +138,9 @@ else if( day == "Sunday"){
 	document.getElementById("Subject6").innerHTML = "Hoilday 😛";
 	document.getElementById("Link6").innerHTML = "Hoilday 😛";
 
-}
+} */
+
+
 
 ///Extra Lecture
 var extralec = "xxxx";
