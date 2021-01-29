@@ -2,7 +2,7 @@ window.onload=function(){
 ///Lecture Links
 	let EmeLink = "<a href='https://meet.google.com/lookup/dhngb2hxlr'>Link</a>";
 	let BeeLink = "<a href='https://meet.google.com/lookup/fplxqs3u5q'>Link</a>";
-	let CsLink = "<a href='https://meet.google.com/lookup/fxszdmcw3y'>Link</a>";
+	let CsLink = "<a href='https://meet.google.com/rbd-nsqw-siq'>Link</a>";
 	let WsLink = "<a href='https://meet.google.com/lookup/dpeoxx2eru'>Link</a>";
 	let IctLink = "<a href='https://meet.google.com/sne-axfr-ubj'>Link</a>";
 	let MathLink= "<a href='https://meet.google.com/lookup/fqte77ij25'>Link</a>";
